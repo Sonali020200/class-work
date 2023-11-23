@@ -1,0 +1,11 @@
+nav{
+    display: flex;
+    justify-content: space-around;
+}
+nav>img{
+    height: 50px;
+    width: 60px;
+}
+nav>p:nth-child(5){
+color: red;
+}
